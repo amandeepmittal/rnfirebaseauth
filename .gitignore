@@ -10,3 +10,4 @@ web-build/
 web-report/
 .DS_Store
 Email Authentication app with Firebase and React Native.md
+.env
